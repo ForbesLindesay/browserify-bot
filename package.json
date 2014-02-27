@@ -1,0 +1,28 @@
+{
+  "name": "browserify-bot",
+  "version": "0.0.0",
+  "description": "A bot to stream browserify builds of all modules on npm",
+  "keywords": [],
+  "dependencies": {
+    "npm-publish-stream": "~0.3.1",
+    "barrage": "~1.0.0",
+    "then-request": "0.0.1",
+    "ms": "~0.6.2",
+    "npm-fetch": "0.0.8",
+    "tar-pack": "~2.0.0",
+    "lsr": "~1.0.0",
+    "throat": "~1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/browserify-bot.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
