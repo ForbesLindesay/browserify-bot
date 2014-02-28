@@ -11,7 +11,9 @@
     "npm-fetch": "0.0.8",
     "tar-pack": "~2.0.0",
     "lsr": "~1.0.0",
-    "throat": "~1.0.0"
+    "throat": "~1.0.0",
+    "rimraf": "~2.2.6",
+    "uglify-js": "~2.4.12"
   },
   "devDependencies": {
     "mocha": "*"
