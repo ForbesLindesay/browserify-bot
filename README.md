@@ -1,5 +1,7 @@
 # browserify-bot
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/browserify-bot.svg)](https://greenkeeper.io/)
+
 A bot to stream browserify builds of all modules on npm
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/browserify-bot/master.svg)](https://travis-ci.org/ForbesLindesay/browserify-bot)
